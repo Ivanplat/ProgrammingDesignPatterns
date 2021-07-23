@@ -1,4 +1,4 @@
 # ProgrammingDesignPatterns
  
-Singletone: https://github.com/Ivanplat/SingletonCPP
-Fabric methode: https://github.com/Ivanplat/FabricMethodCPP
+#Singletone: https://github.com/Ivanplat/SingletonCPP
+#Fabric methode: https://github.com/Ivanplat/FabricMethodCPP
